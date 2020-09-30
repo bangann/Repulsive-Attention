@@ -1,6 +1,6 @@
-# Graph-to-Text Generation with Diversified Attention
+# Graph-to-Text Generation with Repulsive Attention
 
-This is the code for Graph-to-Text Generation with the proposed diversified attention, which is modified from the official source code of the paper, [Text Generation from Knowledge Graphs with Graph Transformers](https://github.com/rikdz/GraphWriter).
+This is the code for Graph-to-Text Generation with the proposed repulsive attention, which is modified from the official source code of the paper, [Text Generation from Knowledge Graphs with Graph Transformers](https://github.com/rikdz/GraphWriter).
 
 ## Requirements
 * Python version >= 3.6

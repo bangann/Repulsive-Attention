@@ -1,6 +1,6 @@
-# Transformer with Diversified Attention
+# Transformer with Repulsive Attention
 
-This is the code for Transformer with proposed diversified attention. The code is based on open-sourced [fairseq (v0.6.0)](https://github.com/pytorch/fairseq/tree/v0.6.0). Follow [this link](https://fairseq.readthedocs.io/) for a detailed document about the original code base.
+This is the code for Transformer with proposed repulsive attention. The code is based on open-sourced [fairseq (v0.6.0)](https://github.com/pytorch/fairseq/tree/v0.6.0). Follow [this link](https://fairseq.readthedocs.io/) for a detailed document about the original code base.
 
 
 ## Requirements

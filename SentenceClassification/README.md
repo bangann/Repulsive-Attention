@@ -1,5 +1,5 @@
-# Self-attentive Sentence Classification with Diversified Attention
-This is the code for Self-attentive Sentence Classification with Bayesian Repulsive Attention modeling. It is also one of the experiments of our paper "Diversified Attentions: Rethinking Multi-head Attention as Bayesian Inference".
+# Self-attentive Sentence Classification with Repulsive Attention
+This is the code for Self-attentive Sentence Classification with Bayesian Repulsive Attention modeling. It is also one of the experiments of our paper "Repulsive Attention: Rethinking Multi-head Attention as Bayesian Inference".
 
 ## Requirements and Installation
 This project is based on pytorch. Before inplementation, please make sure you have

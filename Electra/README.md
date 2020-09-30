@@ -1,6 +1,6 @@
-# ELECTRA with Diversified Attention
+# ELECTRA with Repulsive Attention
 
-This is the code for ELECTRA with the proposed diversified attention. The code is modified 
+This is the code for ELECTRA with the proposed repulsive attention. The code is modified 
 form the official [ELECTRA](https://github.com/google-research/electra) repo. Please refer to it for 
 more details.
 

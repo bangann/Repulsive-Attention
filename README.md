@@ -1,5 +1,5 @@
-## Diversified Attentions: Rethinking Multi-head Attention as Bayesian Inference
-This is the implementation for our paper "Diversified Attentions: 
+## Repulsive Attention: Rethinking Multi-head Attention as Bayesian Inference
+This is the implementation for our paper "Repulsive Attention: 
 Rethinking Multi-head Attention as Bayesian Inference" 
 
 In this repository, we provide codes and pretrained models for our experiments containing 
