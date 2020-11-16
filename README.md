@@ -1,6 +1,6 @@
 ## Repulsive Attention: Rethinking Multi-head Attention as Bayesian Inference
 This is the implementation for our paper "Repulsive Attention: 
-Rethinking Multi-head Attention as Bayesian Inference" 
+Rethinking Multi-head Attention as Bayesian Inference".
 
 In this repository, we provide code and pretrained model for ELectra experiment in our paper.
 
