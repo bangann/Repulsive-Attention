@@ -1,7 +1,7 @@
 # ELECTRA with Repulsive Attention
 
 This is the code for ELECTRA with the proposed repulsive attention. The code is modified 
-form the official [ELECTRA](https://github.com/google-research/electra) repo. Please refer to it for 
+from the official [ELECTRA](https://github.com/google-research/electra) repo. Please refer to it for 
 more details.
 
 ## Requirements
@@ -32,4 +32,4 @@ We provide the pre-trained models as follow:
 
 | Model | Download |
 | --- | --- |
-| ELECTRA-Small-DMA | [link](https://drive.google.com/file/d/1dYQazMD06bLKGan-D8vwbXAnlU8pIJ0R/view?usp=sharing)|
+| ELECTRA-Small-RMA | [link](https://drive.google.com/file/d/1dYQazMD06bLKGan-D8vwbXAnlU8pIJ0R/view?usp=sharing)|
