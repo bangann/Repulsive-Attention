@@ -28,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="68">
-                <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+              <first_editor relative-caret-position="275">
+                <caret line="25" column="150" selection-start-line="25" selection-start-column="150" selection-end-line="25" selection-end-column="150" />
               </first_editor>
               <second_editor />
             </state>
@@ -51,8 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Electra/run_pretraining_svgd.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6460">
-              <caret line="380" column="38" lean-forward="true" selection-start-line="380" selection-start-column="38" selection-end-line="380" selection-end-column="38" />
+            <state relative-caret-position="6188">
+              <caret line="380" column="38" selection-start-line="380" selection-start-column="38" selection-end-line="380" selection-end-column="38" />
               <folding>
                 <element signature="e#644#682#0" expanded="true" />
               </folding>
@@ -63,7 +63,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Electra/model/modeling_svgd.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-12035">
+            <state>
               <folding>
                 <element signature="e#721#759#0" expanded="true" />
               </folding>
@@ -93,9 +93,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1440" />
+    <option name="width" value="1920" />
     <option name="height" value="822" />
   </component>
   <component name="ProjectView">
@@ -103,7 +103,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,6 +114,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -159,18 +159,22 @@
       <workItem from="1605150437618" duration="585000" />
       <workItem from="1605151563210" duration="347000" />
       <workItem from="1605193450724" duration="506000" />
-      <workItem from="1605492385420" duration="3201000" />
+      <workItem from="1605492385420" duration="3885000" />
+      <workItem from="1605764437116" duration="540000" />
+      <workItem from="1605936853614" duration="598000" />
+      <workItem from="1606183812031" duration="1059000" />
+      <workItem from="1607832024192" duration="297000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12653000" />
+    <option name="totallyTimeSpent" value="15831000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1002" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="822" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16400427" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17039403" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -198,81 +202,33 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SentenceClassification/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="1" column="171" selection-start-line="1" selection-start-column="171" selection-end-line="1" selection-end-column="171" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GraphWriter/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="73" selection-start-line="2" selection-start-column="73" selection-end-line="2" selection-end-column="73" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SentenceClassification/scripts/train.py">
+    <entry file="file://$PROJECT_DIR$/SentenceClassification/README.md" />
+    <entry file="file://$PROJECT_DIR$/GraphWriter/README.md" />
+    <entry file="file://$PROJECT_DIR$/SentenceClassification/scripts/train.py" />
+    <entry file="file://$PROJECT_DIR$/RepulsiveTransformer/rTransformer-scripts/test/test-iwslt14.sh" />
+    <entry file="file://$PROJECT_DIR$/RepulsiveTransformer/rTransformer-scripts/test/test-wmt14-base.sh" />
+    <entry file="file://$PROJECT_DIR$/RepulsiveTransformer/rTransformer-scripts/train/train-iwslt14-orig.sh" />
+    <entry file="file://$PROJECT_DIR$/RepulsiveTransformer/rTransformer-scripts/train/train-iwslt14-svgd.sh" />
+    <entry file="file://$PROJECT_DIR$/RepulsiveTransformer/rTransformer-scripts/train/train-wmt14-base-orig.sh" />
+    <entry file="file://$PROJECT_DIR$/RepulsiveTransformer/rTransformer-scripts/train/train-wmt14-base-svgd.sh" />
+    <entry file="file://$PROJECT_DIR$/RepulsiveTransformer/fairseq/trainer.py" />
+    <entry file="file://$PROJECT_DIR$/RepulsiveTransformer/README.md" />
+    <entry file="file://$PROJECT_DIR$/Electra/run_pretraining_svgd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        <state relative-caret-position="6188">
+          <caret line="380" column="38" selection-start-line="380" selection-start-column="38" selection-end-line="380" selection-end-column="38" />
+          <folding>
+            <element signature="e#644#682#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RepulsiveTransformer/rTransformer-scripts/test/test-iwslt14.sh">
+    <entry file="file://$PROJECT_DIR$/Electra/model/modeling_svgd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RepulsiveTransformer/rTransformer-scripts/test/test-wmt14-base.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RepulsiveTransformer/rTransformer-scripts/train/train-iwslt14-orig.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="6" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RepulsiveTransformer/rTransformer-scripts/train/train-iwslt14-svgd.sh">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RepulsiveTransformer/rTransformer-scripts/train/train-wmt14-base-orig.sh">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RepulsiveTransformer/rTransformer-scripts/train/train-wmt14-base-svgd.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RepulsiveTransformer/fairseq/trainer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="164" column="64" lean-forward="true" selection-start-line="164" selection-start-column="64" selection-end-line="164" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RepulsiveTransformer/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="408">
-            <caret line="24" column="82" lean-forward="true" selection-start-line="24" selection-start-column="82" selection-end-line="24" selection-end-column="82" />
-          </first_editor>
-          <second_editor />
+        <state>
+          <folding>
+            <element signature="e#721#759#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -286,30 +242,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Electra/run_pretraining_svgd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6460">
-          <caret line="380" column="38" lean-forward="true" selection-start-line="380" selection-start-column="38" selection-end-line="380" selection-end-column="38" />
-          <folding>
-            <element signature="e#644#682#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Electra/model/modeling_svgd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12035">
-          <folding>
-            <element signature="e#721#759#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+          <first_editor relative-caret-position="275">
+            <caret line="25" column="150" selection-start-line="25" selection-start-column="150" selection-end-line="25" selection-end-column="150" />
           </first_editor>
           <second_editor />
         </state>
